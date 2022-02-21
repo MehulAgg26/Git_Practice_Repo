@@ -11,11 +11,13 @@ Do not jump Directly over Solution use the following hints and try to do it Your
 
 0. Fork and Clone the Repository.
 
-    `git clone https://github.com/<YOUR_USERNAME>/Workshop_git.git`
+    `git clone https://github.com/<YOUR_USERNAME>/Git_Practice_Repo.git`
 
     Note: You can clone anywhere you want but prefer Desktop for first time.
 
 ![alt text for screen readers](/images/clone.png "Clone")
+   
+{In this image it will show the address Workshop_Git but ignore that because I just copy pasted the same ss as Deepak sir's and his repo name was "Workshop_Git" so just  clone my repo whose name is "Git_Practice_Repo"}
 
 
 
